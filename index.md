@@ -20,3 +20,9 @@ var myVar = "Hello, world!";
 ``` sql
 select col1, col2 from sbx.my_table
 ```
+
+### Checklist
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
